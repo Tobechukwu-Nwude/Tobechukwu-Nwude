@@ -2,7 +2,7 @@
 
 `Backend Engineer`
 
-I'm a Computer Science student and independent developer building secure civic-tech platforms and backend systems Nigeria. I work primarily in Python and Go.
+I'm a Computer Science student and independent developer building secure civic-tech platforms and backend systems in Nigeria. I work primarily in Python and Go.
 
 ---
 
